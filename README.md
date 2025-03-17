@@ -1,4 +1,4 @@
-# e-commerce-analysis-project1
+# e-commerce-analysis-project
 Data analysis of e-commerce basket and customer data using Python
 # E-commerce Analysis Project
 
